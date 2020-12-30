@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pimenov-v-4</string>
+    <string name="table_txt">Таблица</string>
+    <string name="number1">111</string>
+    <string name="number2">222</string>
+    <string name="number3">333</string>
+    <string name="number4">444</string>
+    <string name="number5">555</string>
+    <string name="number6">666</string>
+</resources>
